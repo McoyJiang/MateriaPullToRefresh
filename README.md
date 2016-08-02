@@ -3,3 +3,6 @@
 
 ## 效果图
 ![image](https://github.com/McoyJiang/MateriaPullToRefresh/raw/master/IMAGES/pulltorefresh.gif)
+
+## 使用步骤,请参考以下网址
+[http://blog.csdn.net/zxm317122667/article/details/52094048](http://blog.csdn.net/zxm317122667/article/details/52094048)
